@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="weak-value.png" alt="weakvalue-Logo" width="500"/>
+  <br/>
+  <strong>NeuroGlyph: Language for Contextual & Relational Thought</strong>
+</p>
+
+
+
 # 🔬 Weak Value Simulation: Pure and Mixed States
 
 This repository accompanies the article:

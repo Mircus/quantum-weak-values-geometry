@@ -12,7 +12,7 @@ This repository accompanies the article:
 
 **When the Weak Becomes Strong: Effective Observables via Time-Symmetric Quantum Selection**  
 by Mirco A. Mannucci  
-📄 [Read the article here](https://arxiv.org/abs/placeholder-link) ← *(replace this with the final link)*
+📄 [Read the article here]((https://www.academia.edu/136857825/When_the_Weak_Becomes_Strong_Effective_Observables_via_Time_Symmetric_Quantum_Selection?%E2%80%9D=)) ← 
 
 ---
 
